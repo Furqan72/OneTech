@@ -188,7 +188,7 @@ a:hover {
 }
 
 .px-13 {
-    padding: 0px 13px;
+    padding: 15px 13px;
 }
 
 .ms-35 {
@@ -404,7 +404,8 @@ a:hover {
 }
 
 .top-40 {
-    top: 25px;
+    top: 53px;
+    left: 0px;
 }
 
 .cart-10 {
