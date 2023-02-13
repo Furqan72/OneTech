@@ -548,6 +548,7 @@ h1 {
     letter-spacing: 0.18em;
 
 }
+
 .fs2-18 {
     font-size: 18px !important;
 }
@@ -574,6 +575,7 @@ h1 {
         border-radius: 8px;
         font-weight: 500;
     }
+
     .mt-90 {
         margin-top: 26px;
     }
@@ -1628,7 +1630,8 @@ footer .logo {
     .fs1-18 {
         font-size: 16px !important;
     }
-    .section-w-h{
+
+    .section-w-h {
         height: 350px;
     }
 }
